@@ -1,7 +1,5 @@
 # Nodecoin
 
-[![Build Status](https://travis-ci.org/francescosganga/nodecoin.svg?branch=master)](https://travis-ci.org/conradoqg/nodecoin) [![Coverage Status](https://coveralls.io/repos/github/conradoqg/nodecoin/badge.svg?branch=master)](https://coveralls.io/github/francescosganga/nodecoin?branch=master)
-
 ### Motivation
 Cryptocurrencies and smart-contracts on top of a blockchain aren't the most trivial concepts to understand, things like wallets, addresses, block proof-of-work, transactions and their signatures, make more sense when they are in a broad context. Inspired by [naivechain](https://github.com/lhartikk/naivechain), this project is an attempt to provide as concise and simple an implementation of a cryptocurrency as possible.
 
